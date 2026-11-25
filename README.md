@@ -1,5 +1,7 @@
 # Playwright practice: manual QA to automation
 
+[![Playwright tests](https://github.com/kranmal/playwright-practice/actions/workflows/playwright.yml/badge.svg)](https://github.com/kranmal/playwright-practice/actions/workflows/playwright.yml)
+
 UI tests (saucedemo.com) and API tests (jsonplaceholder) in TypeScript, using the Page Object pattern, with CI on GitHub Actions.
 
 ## Run it
